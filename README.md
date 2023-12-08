@@ -19,3 +19,6 @@ GUI elements: (11,233) and (236,252)
 freecodecamp.org
 The ultimate introduction to modern GUIs in python - clear code - https.//youtu.be/mop6g-c5HEY?si=MO850CRQwlS0cD 
 A lot of google!!
+
+**statements**
+'Our team completed this project with code that we wrote ourselves. Any time we used code from a source outside the resources for this class, it was only a few lines and we cited that source in the code.' - <'Yididiya Nigussie'>
