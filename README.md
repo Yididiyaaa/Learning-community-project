@@ -18,6 +18,7 @@ GUI elements: (11,233) and (236,252)
 **Credits**
 freecodecamp.org
 The ultimate introduction to modern GUIs in python - clear code - https.//youtu.be/mop6g-c5HEY?si=MO850CRQwlS0cD 
+https://customtkinter.tomschimansky.com/
 A lot of google!!
 
 **statements**
