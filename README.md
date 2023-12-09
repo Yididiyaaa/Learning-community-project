@@ -8,11 +8,11 @@ the user can add, remove, and mark tasks as complete, a calendar(Date) section t
 **Table of Contents**
 
 Installation : customtkinter and packaging
-Functions : Line 7, 17,26, 50
-Conditionals: 53-57,
-Lists: 32, 50-110(it adds to list task[] line 225), 112 - 144(it adds to list emotions[]line 231)
-Nested loop : 64,76,95
-Recursion: 29-30, 
+Functions : Line 7, 16,26, 50
+Conditionals: 53-57, 58-68
+Lists: 22, 48-108(it adds to list task[] line 229), 110 - 142(it adds to list emotions[]line 235)
+Nested loop : 61,73,90
+Recursion: 19 
 GUI elements: (11,233) and (236,252)
 
 **Credits**
