@@ -121,7 +121,7 @@ def add_emotion():
 
         # Adjust the height of entry2 based on the number of lines of text
         entry2_height = min(10, entry2.get("1.0", tk.END).count("\n") + 2)
-        entry2.config(height=entry2_height)
+        entry2.configure(height=entry2_height)
 
 def view():
     '''displays the previously entered emotions'''
